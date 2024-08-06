@@ -1,0 +1,9 @@
+#include<iostream>
+#include<cmath>
+using namespace std
+    int main()
+{
+int n=25;
+cout<<sqrt(n);
+return 0;
+}

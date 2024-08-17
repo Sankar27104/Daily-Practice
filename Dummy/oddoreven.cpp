@@ -9,9 +9,8 @@ int main(){
         cout<<"the given number "<<num <<" is even";
     }
     else{
-        cout<<"The given number "<<num <<" is odd";
+        cout<<"The given number    "<<num <<" is odd";
     }
     
     return 0;
-    
 }
